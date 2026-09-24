@@ -1,0 +1,25 @@
+RHOB - density of the rock, helps estimate the hydrocarbons in the reservoir
+GR (Gamma ray) - This measures the radioactivity of the rocks.
+DEPTH_MD - used to measure the depth of the rock
+NPHI - measures the porosity of the rock
+PEF - Helps differentiate between the mineral types in rocks
+DTC - measures the velocity of of compressional waves traveling through the rock, can help determining the presence of hydrocarbons. slow sound means higher dtc which means less density, fast sound means low dtc which means more density
+ 
+Section	What it does	StatusS
+1. Data overview	Size, stats, depth check	✅ Done
+2. Data quality	Missing values, IQR outliers, physical limits	✅ Done
+3. Distributions	Histograms + skewness for each curve	Next
+4. Depth plots	Log panel and zones down the well	
+5. Relationships	Correlation heatmap, crossplots	
+6. Clustering	Clusters on pairs of logs	
+7. Depth zones	Statistics for shallow vs deep sections	
+8. Summary	Key findings, plus notes on what to clean later
+9. Make a plotly chart for all of them
+
+next steps can be using windows to set up clusters and using different cluster methods to achieve the more correct clusters at each step.
+
+
+
+
+
+
