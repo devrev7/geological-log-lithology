@@ -16,8 +16,7 @@ Section	What it does	StatusS
 8. Summary	Key findings, plus notes on what to clean later
 9. Make a plotly chart for all of them
 
-next steps can be using windows to set up clusters and using different cluster methods to achieve the more correct clusters at each step.
-
+next steps can be using windows to set up clusters and using different cluster methods to achieve the more correct clusters at each step. removing outliers.
 
 
 
